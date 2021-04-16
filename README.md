@@ -1,9 +1,8 @@
 # 4580Meltdown
 
-Created by modifying code from seed security labs meltdown attack lab.
+Created by modifying code from seed security labs meltdown attack lab. The most important file is MeltdownAttack.c.
 https://seedsecuritylabs.org/Labs_16.04/System/Meltdown_Attack/
 
-Mo
 
 Instructions to use:
 
