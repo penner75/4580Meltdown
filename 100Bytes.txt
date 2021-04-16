@@ -1,0 +1,8450 @@
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 82.90%
+Time: 124.388500 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 89.00%
+Time: 118.730200 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 91.80%
+Time: 115.150700 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 91.10%
+Time: 111.258300 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 86.40%
+Time: 106.890000 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 84.30%
+Time: 104.327100 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 89.40%
+Time: 98.698400 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 86.20%
+Time: 95.543300 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 86.40%
+Time: 90.717800 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 88.10%
+Time: 87.143100 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 85.20%
+Time: 82.654700 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 91.20%
+Time: 78.787900 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 91.20%
+Time: 73.965900 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 88.20%
+Time: 71.154100 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 90.80%
+Time: 66.956300 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 66.90%
+Time: 61.365800 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 90.50%
+Time: 60.172000 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 92.70%
+Time: 53.866400 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.10%
+Time: 50.224400 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 90.30%
+Time: 46.744400 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 86.70%
+Time: 42.375900 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 90.20%
+Time: 37.995100 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 91.20%
+Time: 33.978600 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 90.10%
+Time: 29.319300 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 85.80%
+Time: 26.727900 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 91.80%
+Time: 21.420300 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 88.30%
+Time: 17.896200 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 89.90%
+Time: 13.593800 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 87.00%
+Time: 9.335400 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 91.60%
+Time: 5.673400 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.852100 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.845200 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.873800 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.815600 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.801500 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 2.012000 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.847700 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.829200 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.868600 Milliseconds
+
+Threshold: 80
+Retries: -9
+Accuracy: 0.00%
+Time: 1.837700 Milliseconds
+
+Threshold: 80
+Retries: -10
+Accuracy: 0.00%
+Time: 1.832000 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {90}, starting at {1} retries
+Threshold: 90
+Retries: 1
+Accuracy: 91.80%
+Time: 5.363600 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.830000 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.868200 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.830100 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.827200 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.853700 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.820600 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.809700 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.829800 Milliseconds
+
+Threshold: 90
+Retries: -9
+Accuracy: 0.00%
+Time: 1.833600 Milliseconds
+
+Threshold: 90
+Retries: -10
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {100}, starting at {1} retries
+Threshold: 100
+Retries: 1
+Accuracy: 92.80%
+Time: 5.391600 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.843300 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.818700 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.820000 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.841100 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.867200 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.797500 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.807500 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.862500 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 2.705300 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 1.839100 Milliseconds
+
+Threshold: 100
+Retries: -10
+Accuracy: 0.00%
+Time: 1.841200 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 79.30%
+Time: 5.597900 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.861800 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.833600 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.907400 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.829300 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.868800 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.863200 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.900800 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.810000 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.864900 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.842600 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 88.10%
+Time: 5.435500 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.858600 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.890600 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.825700 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.812200 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.859200 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.857300 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.805600 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.816200 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.845900 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.859500 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 66.40%
+Time: 5.893300 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.985200 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.919300 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.953300 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 2.061900 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.892000 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.885500 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.814200 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.831300 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.845600 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.829200 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 85.00%
+Time: 5.403500 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.909800 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.829700 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.828700 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.860400 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.839500 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.863400 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.879800 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.854000 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.830900 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.839400 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 76.80%
+Time: 5.754400 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.853900 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.874700 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.866200 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.820100 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.799800 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.846700 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.873200 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.842600 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.822200 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.872500 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 89.80%
+Time: 5.389800 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.828000 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.832000 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.819200 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.903800 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.894800 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.974000 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.875900 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 2.279900 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.814100 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.865300 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 88.80%
+Time: 5.461700 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.852400 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.861200 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.825900 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 2.049600 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.985200 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.935200 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.866600 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.833100 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.947500 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.828100 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 86.00%
+Time: 5.481600 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.852400 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.870300 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.818700 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.823000 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.860700 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.833100 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.858200 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.858900 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.852700 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.866900 Milliseconds
+∆ÊM∑`}b∑hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 85.00%
+Time: 5.851000 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.897200 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.844300 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 3.038700 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.824100 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 2.053000 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.844200 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.877300 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.880900 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.848200 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.853500 Milliseconds
+∆ÊM∑`}b∑hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 94.30%
+Time: 124.980100 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 95.10%
+Time: 118.925400 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 94.80%
+Time: 114.300000 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 92.40%
+Time: 113.121100 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 93.70%
+Time: 107.825200 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 92.40%
+Time: 102.843500 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 93.30%
+Time: 97.811200 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 93.50%
+Time: 97.219400 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 93.70%
+Time: 91.082700 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 88.90%
+Time: 87.759800 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 96.00%
+Time: 82.724600 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 85.20%
+Time: 79.533400 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 93.30%
+Time: 76.172100 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 85.60%
+Time: 71.224000 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 92.70%
+Time: 66.144000 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 90.40%
+Time: 62.949900 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 91.50%
+Time: 58.750600 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 93.90%
+Time: 55.239300 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 91.30%
+Time: 50.356500 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 92.00%
+Time: 45.632600 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 92.90%
+Time: 42.462900 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 88.30%
+Time: 38.558800 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 91.50%
+Time: 33.502300 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 91.20%
+Time: 29.259900 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 86.00%
+Time: 26.975500 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 86.30%
+Time: 21.522900 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 90.60%
+Time: 17.534100 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 92.10%
+Time: 13.876700 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 89.20%
+Time: 9.242500 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 67.50%
+Time: 5.725400 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.827000 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.825200 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.823600 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.842500 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.822000 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.857700 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.849500 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.820900 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.812500 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {90}, starting at {3} retries
+Threshold: 90
+Retries: 3
+Accuracy: 90.60%
+Time: 14.019700 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 85.20%
+Time: 9.732900 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 92.70%
+Time: 5.641200 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.875100 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.881100 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.828600 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.811900 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.828600 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.855200 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.811600 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.839500 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.871500 Milliseconds
+
+Threshold: 90
+Retries: -9
+Accuracy: 0.00%
+Time: 1.805500 Milliseconds
+
+Threshold: 90
+Retries: -10
+Accuracy: 0.00%
+Time: 2.301500 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {100}, starting at {1} retries
+Threshold: 100
+Retries: 1
+Accuracy: 60.60%
+Time: 5.957100 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 2.143300 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 2.043100 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.966200 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.930900 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.994500 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 2.025000 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.950300 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 2.104600 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.971600 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 2.001600 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 82.20%
+Time: 5.541300 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.843800 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.827600 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.843600 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.830600 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.830100 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.862900 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.851400 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.805200 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.868500 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 62.30%
+Time: 5.855500 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.921000 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.809800 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 2.178500 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.925200 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.832100 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.831000 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.838000 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.856300 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.820700 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 91.50%
+Time: 5.455000 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.871000 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.842700 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.823700 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.825200 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.821200 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.873300 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.823800 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.827000 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.795800 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.823200 Milliseconds
+
+Threshold: 130
+Retries: -10
+Accuracy: 0.00%
+Time: 1.853300 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 92.50%
+Time: 5.381700 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.863200 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.931800 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.973900 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.947600 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.909200 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.899700 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 2.008100 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.981900 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.926300 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 2.012000 Milliseconds
+
+Threshold: 140
+Retries: -10
+Accuracy: 0.00%
+Time: 1.907600 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 50.10%
+Time: 6.031500 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.981700 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.958100 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.976100 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.831200 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.831800 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.835900 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.827600 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.850300 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.854400 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.820900 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 79.90%
+Time: 5.532600 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.892100 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.861500 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.894800 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.930700 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.828200 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.829900 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.821100 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.813300 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.844700 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.832600 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 92.90%
+Time: 5.472300 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.841300 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.852200 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.831600 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.860500 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.998900 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 2.028200 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.963600 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.982600 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.920000 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.856900 Milliseconds
+
+Threshold: 170
+Retries: -10
+Accuracy: 0.00%
+Time: 2.032600 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 81.80%
+Time: 5.595700 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.846300 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.825900 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.831000 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.853200 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828800 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.840600 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.840200 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.813600 Milliseconds
+DÊM∑\†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 73.70%
+Time: 5.622400 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.859100 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.805800 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 2.548900 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.835600 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.869100 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.851100 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.824800 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.832400 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.828600 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.841600 Milliseconds
+DÊM∑\†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 92.50%
+Time: 122.909000 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 91.20%
+Time: 118.662500 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 92.20%
+Time: 115.515000 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 95.50%
+Time: 110.588500 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 88.90%
+Time: 109.291600 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 93.10%
+Time: 103.659600 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 93.70%
+Time: 98.883900 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 94.00%
+Time: 95.878600 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 95.60%
+Time: 89.626400 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 94.00%
+Time: 87.793000 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 94.40%
+Time: 83.336400 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 93.50%
+Time: 79.011600 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 94.80%
+Time: 75.402200 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 93.30%
+Time: 71.201800 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 93.00%
+Time: 67.447100 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 95.00%
+Time: 63.048300 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 91.90%
+Time: 59.259300 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 93.70%
+Time: 54.160900 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 92.60%
+Time: 50.583500 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 91.30%
+Time: 46.860900 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 87.60%
+Time: 42.115700 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 91.60%
+Time: 38.454000 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 89.50%
+Time: 34.904200 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 90.20%
+Time: 30.515100 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 88.80%
+Time: 25.977100 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 91.40%
+Time: 21.819300 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 83.40%
+Time: 17.447100 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 91.10%
+Time: 13.014500 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 87.90%
+Time: 9.576600 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 88.90%
+Time: 5.524900 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.906700 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.878100 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.826500 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.819700 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.818700 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.817400 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.844700 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.824700 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.855200 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {90}, starting at {3} retries
+Threshold: 90
+Retries: 3
+Accuracy: 89.40%
+Time: 13.632500 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 91.10%
+Time: 9.736000 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 86.00%
+Time: 5.536700 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.857200 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.827000 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.835100 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.876500 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.835600 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.878500 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.834900 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.823500 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 2.372700 Milliseconds
+
+Threshold: 90
+Retries: -9
+Accuracy: 0.00%
+Time: 1.854700 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {100}, starting at {2} retries
+Threshold: 100
+Retries: 2
+Accuracy: 83.10%
+Time: 9.220200 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 86.10%
+Time: 5.604000 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.902900 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.837800 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.822300 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.826600 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.843400 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.815200 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.826100 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.868400 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.820200 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {110}, starting at {2} retries
+Threshold: 110
+Retries: 2
+Accuracy: 88.80%
+Time: 9.381000 Milliseconds
+
+Threshold: 110
+Retries: 1
+Accuracy: 90.60%
+Time: 6.012000 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 2.171900 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.986200 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 2.405500 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.944100 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.853300 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.943900 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 2.115300 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.919300 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.840300 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.866900 Milliseconds
+
+Threshold: 110
+Retries: -10
+Accuracy: 0.00%
+Time: 1.823400 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 90.40%
+Time: 5.936700 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.878000 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.893700 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.884000 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.935500 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.831800 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.847800 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.864400 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.820700 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.813900 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.912400 Milliseconds
+
+Threshold: 120
+Retries: -10
+Accuracy: 0.00%
+Time: 1.891000 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 80.00%
+Time: 5.576800 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.896300 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.872400 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.866200 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.908200 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.818200 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.832500 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.850900 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.838200 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.893800 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.807600 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 89.70%
+Time: 5.450600 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.864500 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.830800 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.846500 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.876200 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.886900 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.878000 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.863700 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.859800 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.835800 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.824600 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 87.70%
+Time: 6.181700 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.900300 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.861000 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.857900 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.820200 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.856800 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.912500 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.837700 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.859700 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.864900 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.861400 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 87.70%
+Time: 5.471800 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.907800 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.864800 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.837000 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.824400 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.905600 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.863100 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.913600 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.863100 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.897900 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 2.021300 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 92.40%
+Time: 5.436400 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.992200 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.873300 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.844200 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.863100 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.836900 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.831300 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.829500 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.876500 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.913300 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.826700 Milliseconds
+
+Threshold: 170
+Retries: -10
+Accuracy: 0.00%
+Time: 1.864300 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 88.30%
+Time: 5.415200 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.876100 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.826900 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.833500 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.851600 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.843400 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.859800 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.859500 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.824300 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.847500 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.843800 Milliseconds
+DÊM∑,^†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 91.20%
+Time: 5.498100 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.887200 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.871500 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.844300 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.833000 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.838200 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.876100 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.854600 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.831900 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.848100 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.819500 Milliseconds
+
+Threshold: 190
+Retries: -10
+Accuracy: 0.00%
+Time: 1.844600 Milliseconds
+DÊM∑,^†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 93.70%
+Time: 124.217100 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 91.20%
+Time: 120.399300 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 93.10%
+Time: 115.020100 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 93.30%
+Time: 111.862400 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 92.40%
+Time: 108.832900 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 94.10%
+Time: 104.349300 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 93.70%
+Time: 98.157100 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 95.60%
+Time: 94.357300 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 90.40%
+Time: 90.947400 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 94.70%
+Time: 87.790300 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 93.80%
+Time: 82.881300 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 93.40%
+Time: 78.528900 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 89.20%
+Time: 75.561500 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 92.70%
+Time: 71.541500 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 94.10%
+Time: 67.485400 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 89.20%
+Time: 62.920500 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 87.50%
+Time: 64.872500 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 92.20%
+Time: 54.107100 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.90%
+Time: 49.989900 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 93.20%
+Time: 46.048200 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 90.70%
+Time: 42.428400 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 92.40%
+Time: 37.743600 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 90.20%
+Time: 34.699000 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 90.00%
+Time: 29.289600 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 90.40%
+Time: 25.953200 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 90.70%
+Time: 21.174700 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 91.00%
+Time: 18.243100 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 90.70%
+Time: 13.332400 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 87.30%
+Time: 9.522300 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 87.20%
+Time: 5.510900 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.853900 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.853000 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 2.004500 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.834100 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.883500 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.894500 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.867600 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.816400 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.824900 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {90}, starting at {3} retries
+Threshold: 90
+Retries: 3
+Accuracy: 91.80%
+Time: 13.164900 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 85.90%
+Time: 9.522400 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 87.70%
+Time: 6.623300 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.853900 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.837000 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.824000 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.828800 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.834300 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 2.223300 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.849900 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.851200 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.812900 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {100}, starting at {3} retries
+Threshold: 100
+Retries: 3
+Accuracy: 89.80%
+Time: 12.967800 Milliseconds
+
+Threshold: 100
+Retries: 2
+Accuracy: 86.60%
+Time: 9.407400 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 81.20%
+Time: 5.663000 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.838700 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.794700 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.862200 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.845200 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.836000 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.821800 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.840400 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.831100 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {110}, starting at {3} retries
+Threshold: 110
+Retries: 3
+Accuracy: 88.60%
+Time: 13.363800 Milliseconds
+
+Threshold: 110
+Retries: 2
+Accuracy: 88.50%
+Time: 10.017600 Milliseconds
+
+Threshold: 110
+Retries: 1
+Accuracy: 89.60%
+Time: 5.523900 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.854000 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.839500 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.818500 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.819700 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.876400 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.955800 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.862900 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.832200 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {120}, starting at {3} retries
+Threshold: 120
+Retries: 3
+Accuracy: 90.50%
+Time: 13.746100 Milliseconds
+
+Threshold: 120
+Retries: 2
+Accuracy: 82.20%
+Time: 9.882500 Milliseconds
+
+Threshold: 120
+Retries: 1
+Accuracy: 84.70%
+Time: 5.501500 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.832500 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.822300 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.827800 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.829600 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.826100 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.883300 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.819000 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.806400 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {130}, starting at {3} retries
+Threshold: 130
+Retries: 3
+Accuracy: 91.50%
+Time: 13.106800 Milliseconds
+
+Threshold: 130
+Retries: 2
+Accuracy: 63.50%
+Time: 9.770900 Milliseconds
+
+Threshold: 130
+Retries: 1
+Accuracy: 87.60%
+Time: 5.467400 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.809500 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.832400 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 2.124900 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.842100 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.819500 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.817500 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.821800 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.813400 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.841700 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {140}, starting at {3} retries
+Threshold: 140
+Retries: 3
+Accuracy: 87.60%
+Time: 14.911800 Milliseconds
+
+Threshold: 140
+Retries: 2
+Accuracy: 92.10%
+Time: 9.780400 Milliseconds
+
+Threshold: 140
+Retries: 1
+Accuracy: 86.40%
+Time: 5.597600 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.839600 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.846100 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.842800 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.844300 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.812600 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841800 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.816900 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.832000 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.824100 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.861300 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {150}, starting at {2} retries
+Threshold: 150
+Retries: 2
+Accuracy: 88.30%
+Time: 9.303500 Milliseconds
+
+Threshold: 150
+Retries: 1
+Accuracy: 92.30%
+Time: 5.448100 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.831000 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.874600 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.839200 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.828900 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.912000 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.857500 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.847900 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.832500 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.826600 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.834100 Milliseconds
+
+Threshold: 150
+Retries: -10
+Accuracy: 0.00%
+Time: 1.835400 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 89.80%
+Time: 5.463400 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.849900 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.882700 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.825300 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.850000 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.817800 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.834000 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.833200 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.873100 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.819300 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.827300 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 91.90%
+Time: 5.397600 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.838900 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.843200 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.824100 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.828700 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.826500 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.839900 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828600 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 2.184600 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.858700 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.822500 Milliseconds
+
+Threshold: 170
+Retries: -10
+Accuracy: 0.00%
+Time: 1.849600 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 92.70%
+Time: 5.397600 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.853100 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.830900 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.816100 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.818700 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.827800 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 2.196700 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.812100 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.811800 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.897300 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.820700 Milliseconds
+
+Threshold: 180
+Retries: -10
+Accuracy: 0.00%
+Time: 1.884500 Milliseconds
+DÊM∑ê`†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 89.70%
+Time: 5.605800 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.839900 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 2.091900 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.913200 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.858500 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.861100 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.826300 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828200 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.824700 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.840900 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.808100 Milliseconds
+DÊM∑ê`†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 89.30%
+Time: 123.808500 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 91.90%
+Time: 121.713500 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 91.10%
+Time: 115.140700 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 90.60%
+Time: 112.464200 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 92.90%
+Time: 106.969300 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 92.30%
+Time: 102.762400 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 92.00%
+Time: 98.736800 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 93.40%
+Time: 94.014100 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 92.10%
+Time: 90.646800 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 88.70%
+Time: 87.757500 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 92.70%
+Time: 82.982600 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 90.60%
+Time: 78.510600 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 92.10%
+Time: 73.641200 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 91.70%
+Time: 70.190800 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 90.90%
+Time: 66.136900 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 92.20%
+Time: 64.406700 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 89.30%
+Time: 58.339500 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 90.20%
+Time: 53.850100 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.00%
+Time: 50.922200 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 91.40%
+Time: 46.021700 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 88.70%
+Time: 42.273700 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 95.00%
+Time: 38.032900 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 70.90%
+Time: 34.786400 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 91.20%
+Time: 29.903800 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 92.60%
+Time: 25.907100 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 92.30%
+Time: 21.950000 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 79.80%
+Time: 17.616500 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 92.40%
+Time: 13.913600 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 86.50%
+Time: 9.621400 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 84.10%
+Time: 5.578900 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.865600 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.833200 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.830000 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.866800 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.847700 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.876400 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828900 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.823600 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.853900 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {90}, starting at {3} retries
+Threshold: 90
+Retries: 3
+Accuracy: 92.30%
+Time: 13.402200 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 79.90%
+Time: 9.861700 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 91.50%
+Time: 5.450000 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.870600 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.818200 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.822500 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.879100 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.865300 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.839300 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 2.029200 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.843800 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.863300 Milliseconds
+
+Threshold: 90
+Retries: -9
+Accuracy: 0.00%
+Time: 1.803600 Milliseconds
+
+Threshold: 90
+Retries: -10
+Accuracy: 0.00%
+Time: 1.868900 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {100}, starting at {1} retries
+Threshold: 100
+Retries: 1
+Accuracy: 83.90%
+Time: 5.566500 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.851900 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.967500 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.842300 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.837500 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.858600 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.839800 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828100 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.818700 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.843200 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 1.880200 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 86.80%
+Time: 5.548100 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.839200 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.896200 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.824200 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.844800 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.825400 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841400 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.838200 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.860300 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.933400 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.848600 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 89.80%
+Time: 5.480800 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.828500 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.866800 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.844400 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.805300 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.853800 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.868500 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.815600 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.805300 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.847500 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.915900 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 91.70%
+Time: 5.452700 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.873900 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.833500 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.833500 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.846900 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.877600 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.895000 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.847600 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.857500 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.837500 Milliseconds
+
+Threshold: 130
+Retries: -10
+Accuracy: 0.00%
+Time: 1.805000 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 83.50%
+Time: 5.577300 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.840300 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.892600 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.813800 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.846300 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.828100 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.839200 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.855400 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.851600 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 91.40%
+Time: 5.505400 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.889300 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.872600 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.870300 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.894900 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.850300 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.850400 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.835000 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.841400 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.870000 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.821600 Milliseconds
+
+Threshold: 150
+Retries: -10
+Accuracy: 0.00%
+Time: 1.820400 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 91.10%
+Time: 5.585600 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.833000 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 2.108200 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.868900 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.869300 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.857700 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.854300 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.823600 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.822200 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.832100 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.835900 Milliseconds
+
+Threshold: 160
+Retries: -10
+Accuracy: 0.00%
+Time: 1.920200 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 73.30%
+Time: 5.658300 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.838600 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.875600 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.879200 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.820900 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.828700 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 2.254500 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.865700 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.807700 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.899100 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.815400 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 80.80%
+Time: 5.550500 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.916900 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.913000 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.833600 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.925000 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.968400 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.877800 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.840000 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.838500 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 2.216600 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.855800 Milliseconds
+DÊM∑äc†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 88.40%
+Time: 5.455300 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.850900 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.853000 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.933500 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.834800 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.824400 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.845900 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.844000 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.837400 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.856400 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.826000 Milliseconds
+DÊM∑äc†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 95.10%
+Time: 123.992000 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 92.70%
+Time: 118.333700 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 92.50%
+Time: 117.585700 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 93.00%
+Time: 110.966700 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 92.50%
+Time: 107.323200 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 92.60%
+Time: 103.039600 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 91.90%
+Time: 99.610600 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 94.60%
+Time: 94.685400 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 93.80%
+Time: 91.762000 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 94.20%
+Time: 87.041800 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 89.80%
+Time: 82.611300 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 90.70%
+Time: 78.711500 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 91.20%
+Time: 75.750700 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 94.10%
+Time: 69.955900 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 91.20%
+Time: 66.176900 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 91.50%
+Time: 62.986800 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 91.00%
+Time: 58.146100 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 90.70%
+Time: 55.265400 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 93.50%
+Time: 50.747800 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 88.20%
+Time: 47.074400 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 91.10%
+Time: 42.190200 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 87.80%
+Time: 38.018300 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 89.80%
+Time: 33.956100 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 94.60%
+Time: 30.471500 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 90.70%
+Time: 26.307500 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 84.60%
+Time: 22.091400 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 94.10%
+Time: 17.189100 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 92.20%
+Time: 13.763800 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 85.80%
+Time: 9.412200 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 88.50%
+Time: 5.441900 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.840800 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.836000 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.883400 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.865100 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.835500 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.824800 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.851100 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.826100 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.836200 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {90}, starting at {3} retries
+Threshold: 90
+Retries: 3
+Accuracy: 90.60%
+Time: 13.498200 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 84.70%
+Time: 9.395600 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 89.20%
+Time: 5.465000 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.889500 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.830000 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.817300 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.825300 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.888900 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.820700 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.837400 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.860800 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {100}, starting at {3} retries
+Threshold: 100
+Retries: 3
+Accuracy: 95.20%
+Time: 13.607400 Milliseconds
+
+Threshold: 100
+Retries: 2
+Accuracy: 85.20%
+Time: 9.976200 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 86.10%
+Time: 5.725400 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.884400 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.841500 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.862200 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.863100 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841900 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.835100 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.865700 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.814400 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {110}, starting at {3} retries
+Threshold: 110
+Retries: 3
+Accuracy: 94.50%
+Time: 13.437000 Milliseconds
+
+Threshold: 110
+Retries: 2
+Accuracy: 85.40%
+Time: 9.574600 Milliseconds
+
+Threshold: 110
+Retries: 1
+Accuracy: 87.20%
+Time: 5.623300 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.906600 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.945200 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.820200 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.848600 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.830900 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.832500 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.853200 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.861300 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.819400 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {120}, starting at {3} retries
+Threshold: 120
+Retries: 3
+Accuracy: 92.80%
+Time: 12.722900 Milliseconds
+
+Threshold: 120
+Retries: 2
+Accuracy: 89.70%
+Time: 9.695800 Milliseconds
+
+Threshold: 120
+Retries: 1
+Accuracy: 88.00%
+Time: 5.485600 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.860600 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.855700 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.856300 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.832000 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.856800 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.877500 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.896800 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.825400 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.842000 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {130}, starting at {3} retries
+Threshold: 130
+Retries: 3
+Accuracy: 90.50%
+Time: 13.415800 Milliseconds
+
+Threshold: 130
+Retries: 2
+Accuracy: 89.60%
+Time: 9.898700 Milliseconds
+
+Threshold: 130
+Retries: 1
+Accuracy: 90.40%
+Time: 6.204100 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.832600 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.832600 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.825400 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 2.257800 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.846600 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.871300 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.853800 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.828100 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.824300 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.887000 Milliseconds
+
+Threshold: 130
+Retries: -10
+Accuracy: 0.00%
+Time: 1.826100 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 84.70%
+Time: 5.439900 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.856400 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.824500 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.840600 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.825800 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.831600 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841900 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.852600 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.874900 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.849200 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.852200 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 91.80%
+Time: 5.430600 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.856800 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.824700 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.841200 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.842100 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.871000 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.825100 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.866300 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.898900 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.796300 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.855200 Milliseconds
+
+Threshold: 150
+Retries: -10
+Accuracy: 0.00%
+Time: 1.845800 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 88.60%
+Time: 5.458900 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.839300 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.821000 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.797900 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.888700 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.829200 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.826300 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.909700 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 2.296000 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 2.013000 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.830700 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 73.70%
+Time: 5.759600 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.893200 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.830600 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.835500 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.902000 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.963500 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.899800 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.847400 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.801600 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.853200 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.887100 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 89.40%
+Time: 5.442000 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.864700 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.877800 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.846700 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.824000 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.833400 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.849300 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.861600 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.835900 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.825900 Milliseconds
+DÊM∑•e†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 91.70%
+Time: 5.375400 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.875300 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.843800 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.817000 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.839000 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.840000 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.831500 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.810100 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.851900 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.817100 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.864300 Milliseconds
+
+Threshold: 190
+Retries: -10
+Accuracy: 0.00%
+Time: 1.859000 Milliseconds
+DÊM∑•e†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 93.90%
+Time: 122.547900 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 95.20%
+Time: 118.057100 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 89.40%
+Time: 114.817300 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 94.80%
+Time: 110.337700 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 94.30%
+Time: 107.035200 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 94.10%
+Time: 103.155600 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 94.60%
+Time: 99.917700 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 94.50%
+Time: 96.226100 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 91.50%
+Time: 91.698000 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 93.70%
+Time: 86.017200 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 94.70%
+Time: 84.332200 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 92.80%
+Time: 78.560100 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 92.50%
+Time: 74.383300 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 95.10%
+Time: 70.505800 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 92.20%
+Time: 67.721600 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 83.10%
+Time: 64.196000 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 93.10%
+Time: 58.603100 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 93.00%
+Time: 54.024500 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 90.10%
+Time: 50.080600 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 89.80%
+Time: 45.953200 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 90.70%
+Time: 42.204300 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 87.10%
+Time: 38.425600 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 81.70%
+Time: 34.009400 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 81.10%
+Time: 31.696500 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 81.10%
+Time: 27.401800 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 91.30%
+Time: 21.987700 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 92.40%
+Time: 17.877300 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 80.40%
+Time: 14.203600 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 85.30%
+Time: 9.554400 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 86.90%
+Time: 5.582700 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.844600 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.838900 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.837300 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.840500 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.832900 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.871900 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.814900 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.862400 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {90}, starting at {4} retries
+Threshold: 90
+Retries: 4
+Accuracy: 87.10%
+Time: 17.398000 Milliseconds
+
+Threshold: 90
+Retries: 3
+Accuracy: 88.30%
+Time: 13.617400 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 88.10%
+Time: 9.981600 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 87.70%
+Time: 5.736300 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.862200 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.854600 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.826400 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.868500 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.852300 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.934800 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.891400 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {100}, starting at {4} retries
+Threshold: 100
+Retries: 4
+Accuracy: 89.10%
+Time: 17.776100 Milliseconds
+
+Threshold: 100
+Retries: 3
+Accuracy: 90.20%
+Time: 13.203100 Milliseconds
+
+Threshold: 100
+Retries: 2
+Accuracy: 87.80%
+Time: 9.196400 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 90.40%
+Time: 5.515000 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.846100 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.810900 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.819500 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.875600 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.911700 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.848700 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.846300 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.842300 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.837100 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 1.865400 Milliseconds
+
+Threshold: 100
+Retries: -10
+Accuracy: 0.00%
+Time: 1.881400 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 91.20%
+Time: 5.417300 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.861100 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.842300 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.843300 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.846900 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.814000 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.953800 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.832200 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.818300 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.834000 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.855900 Milliseconds
+
+Threshold: 110
+Retries: -10
+Accuracy: 0.00%
+Time: 1.862100 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 91.50%
+Time: 5.416200 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.859600 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.876700 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.974400 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.867700 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.848700 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.862200 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.813900 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.844100 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.833500 Milliseconds
+
+Threshold: 120
+Retries: -10
+Accuracy: 0.00%
+Time: 1.807000 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 92.50%
+Time: 5.452700 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.858900 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.813500 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.817300 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.822800 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.840200 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.838900 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.860700 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.855500 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.841900 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.846200 Milliseconds
+
+Threshold: 130
+Retries: -10
+Accuracy: 0.00%
+Time: 1.807500 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 87.90%
+Time: 5.425500 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.856700 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.908900 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.829100 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.846700 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.818000 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.850100 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.862600 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.790600 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.821200 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 92.30%
+Time: 5.364400 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.858500 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.849800 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.825200 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.847000 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.824600 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.842900 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.862400 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.889600 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.822200 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 2.062100 Milliseconds
+
+Threshold: 150
+Retries: -10
+Accuracy: 0.00%
+Time: 1.871400 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 90.00%
+Time: 5.553100 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.855600 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.830500 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.940300 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.877200 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.859600 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.845700 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.804900 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.841700 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.827400 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.836500 Milliseconds
+
+Threshold: 160
+Retries: -10
+Accuracy: 0.00%
+Time: 1.864300 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 86.90%
+Time: 5.506400 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.830700 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.818600 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.847600 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.823600 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.850300 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.863800 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.829600 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.825300 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 91.90%
+Time: 5.401500 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.856900 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.854300 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.913400 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.824600 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.813200 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.818200 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.819500 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.844300 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.861900 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.827200 Milliseconds
+
+Threshold: 180
+Retries: -10
+Accuracy: 0.00%
+Time: 1.896000 Milliseconds
+DÊM∑ùh†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 88.20%
+Time: 5.477300 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.822200 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.842200 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.847700 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.816500 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.840200 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.806300 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.833700 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.911900 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.811600 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.849500 Milliseconds
+DÊM∑ùh†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 94.20%
+Time: 123.714300 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 94.50%
+Time: 119.278400 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 96.60%
+Time: 116.052300 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 94.80%
+Time: 111.872500 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 93.40%
+Time: 106.898200 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 93.50%
+Time: 104.450800 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 93.60%
+Time: 100.777000 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 91.60%
+Time: 95.633100 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 92.60%
+Time: 91.894800 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 89.90%
+Time: 87.550300 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 91.30%
+Time: 83.156400 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 91.50%
+Time: 78.720000 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 90.90%
+Time: 75.506500 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 90.60%
+Time: 70.834700 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 91.40%
+Time: 67.352800 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 90.40%
+Time: 62.959200 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 91.30%
+Time: 58.835200 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 89.80%
+Time: 54.673300 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.70%
+Time: 50.669600 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 90.40%
+Time: 47.517900 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 93.70%
+Time: 42.544900 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 90.10%
+Time: 38.251900 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 90.70%
+Time: 34.448600 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 87.20%
+Time: 29.779700 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 91.20%
+Time: 26.415200 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 89.20%
+Time: 22.475100 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 89.10%
+Time: 18.153900 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 91.30%
+Time: 13.249600 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 89.90%
+Time: 9.556700 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 91.70%
+Time: 5.537600 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.874500 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.843000 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.860900 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.831300 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.825900 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.823200 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.843600 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.830000 Milliseconds
+
+Threshold: 80
+Retries: -8
+Accuracy: 0.00%
+Time: 1.882500 Milliseconds
+
+Threshold: 80
+Retries: -9
+Accuracy: 0.00%
+Time: 1.837800 Milliseconds
+
+Threshold: 80
+Retries: -10
+Accuracy: 0.00%
+Time: 1.826900 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {90}, starting at {1} retries
+Threshold: 90
+Retries: 1
+Accuracy: 90.70%
+Time: 5.415400 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.897800 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.862600 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.847800 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 2.073700 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.916000 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.803400 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.856400 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.916600 Milliseconds
+
+Threshold: 90
+Retries: -8
+Accuracy: 0.00%
+Time: 1.828800 Milliseconds
+
+Threshold: 90
+Retries: -9
+Accuracy: 0.00%
+Time: 1.874500 Milliseconds
+
+Threshold: 90
+Retries: -10
+Accuracy: 0.00%
+Time: 1.848600 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {100}, starting at {1} retries
+Threshold: 100
+Retries: 1
+Accuracy: 85.10%
+Time: 5.523600 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.852100 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 2.283800 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.831800 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.830800 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.904600 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.814600 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.848200 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.820000 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.845100 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 1.889300 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 87.70%
+Time: 5.429500 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.860100 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.834900 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.878100 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.822600 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.817700 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.837300 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.862500 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.833100 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.825200 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.807800 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 87.80%
+Time: 5.519200 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.903200 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.827400 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.915800 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.864300 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.838100 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.819600 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.801500 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.860600 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.853100 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.852800 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 89.00%
+Time: 5.436400 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.854100 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.901200 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.821100 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.830400 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.850700 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.844400 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.859000 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.906700 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.842300 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.882400 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 88.30%
+Time: 5.461400 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.859500 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.874200 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.854800 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.888800 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.937200 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.832300 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.827000 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.854400 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.876800 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.823100 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 89.90%
+Time: 5.430600 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.860100 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.825700 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.833900 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.827400 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.859800 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.870600 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.818000 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.819800 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.861200 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.864100 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 90.60%
+Time: 5.474200 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.814200 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.834300 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.836200 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.831000 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.826100 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.832900 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.831600 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.855400 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.897200 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.824900 Milliseconds
+
+Threshold: 160
+Retries: -10
+Accuracy: 0.00%
+Time: 1.853500 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 86.30%
+Time: 5.516400 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.872800 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.902500 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.846700 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.850800 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.846800 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841200 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 2.073000 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.890300 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.925700 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.831100 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 89.90%
+Time: 6.721900 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.845000 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.995600 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.851800 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.891100 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.843400 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.834300 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.828000 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.810900 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.838000 Milliseconds
+DÊM∑ö[†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 88.00%
+Time: 5.483600 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.873600 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.841500 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.886800 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.863900 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.843800 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.819100 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.822100 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.883500 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.817400 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.836400 Milliseconds
+DÊM∑ö[†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 95.80%
+Time: 121.735200 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 88.20%
+Time: 119.501200 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 47.60%
+Time: 120.212600 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 91.40%
+Time: 112.060000 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 94.00%
+Time: 108.552500 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 94.40%
+Time: 103.021300 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 87.30%
+Time: 99.760900 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 94.20%
+Time: 95.051500 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 93.70%
+Time: 90.321800 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 94.60%
+Time: 86.752500 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 93.90%
+Time: 82.432900 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 92.30%
+Time: 79.191800 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 92.40%
+Time: 74.801300 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 94.50%
+Time: 70.753400 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 92.80%
+Time: 67.360500 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 91.30%
+Time: 61.991200 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 95.00%
+Time: 58.120400 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 92.70%
+Time: 54.530100 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.90%
+Time: 49.779800 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 92.40%
+Time: 46.042000 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 85.30%
+Time: 43.507900 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 89.70%
+Time: 38.386600 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 90.30%
+Time: 34.542600 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 90.00%
+Time: 29.978900 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 89.10%
+Time: 25.816800 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 89.50%
+Time: 21.748700 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 90.80%
+Time: 18.100700 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 89.30%
+Time: 13.118000 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 82.90%
+Time: 9.893100 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 86.40%
+Time: 5.528200 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.861100 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.861600 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 2.707700 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.822800 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.813200 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 2.041900 Milliseconds
+
+Threshold: 80
+Retries: -6
+Accuracy: 0.00%
+Time: 1.853700 Milliseconds
+
+Threshold: 80
+Retries: -7
+Accuracy: 0.00%
+Time: 1.852100 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {90}, starting at {4} retries
+Threshold: 90
+Retries: 4
+Accuracy: 90.40%
+Time: 17.507200 Milliseconds
+
+Threshold: 90
+Retries: 3
+Accuracy: 88.50%
+Time: 13.947800 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 85.60%
+Time: 9.885700 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 82.60%
+Time: 5.557200 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.851400 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.821300 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.836200 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.835900 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.860300 Milliseconds
+
+Threshold: 90
+Retries: -5
+Accuracy: 0.00%
+Time: 1.827200 Milliseconds
+
+Threshold: 90
+Retries: -6
+Accuracy: 0.00%
+Time: 1.818600 Milliseconds
+
+Threshold: 90
+Retries: -7
+Accuracy: 0.00%
+Time: 1.866200 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {100}, starting at {4} retries
+Threshold: 100
+Retries: 4
+Accuracy: 84.30%
+Time: 17.283500 Milliseconds
+
+Threshold: 100
+Retries: 3
+Accuracy: 87.20%
+Time: 13.658100 Milliseconds
+
+Threshold: 100
+Retries: 2
+Accuracy: 78.40%
+Time: 9.802300 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 87.40%
+Time: 5.569300 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.830400 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.843000 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.811200 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.837300 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.850300 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.920600 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.829200 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {110}, starting at {4} retries
+Threshold: 110
+Retries: 4
+Accuracy: 90.20%
+Time: 17.787300 Milliseconds
+
+Threshold: 110
+Retries: 3
+Accuracy: 92.30%
+Time: 13.519300 Milliseconds
+
+Threshold: 110
+Retries: 2
+Accuracy: 89.00%
+Time: 9.984300 Milliseconds
+
+Threshold: 110
+Retries: 1
+Accuracy: 88.10%
+Time: 5.716500 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.864700 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.846100 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.909400 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.900100 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.993500 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.915400 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.847000 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.816500 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 3.407100 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {120}, starting at {3} retries
+Threshold: 120
+Retries: 3
+Accuracy: 89.60%
+Time: 13.148400 Milliseconds
+
+Threshold: 120
+Retries: 2
+Accuracy: 86.20%
+Time: 11.208600 Milliseconds
+
+Threshold: 120
+Retries: 1
+Accuracy: 82.50%
+Time: 5.687600 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.891300 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.844900 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.817500 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.808800 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.908300 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.868200 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.835700 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.810700 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {130}, starting at {3} retries
+Threshold: 130
+Retries: 3
+Accuracy: 91.10%
+Time: 13.625000 Milliseconds
+
+Threshold: 130
+Retries: 2
+Accuracy: 88.70%
+Time: 9.592100 Milliseconds
+
+Threshold: 130
+Retries: 1
+Accuracy: 89.60%
+Time: 5.553400 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.891800 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.895800 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.845400 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.851600 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.819300 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.858200 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 1.806700 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.820600 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 1.846100 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {140}, starting at {3} retries
+Threshold: 140
+Retries: 3
+Accuracy: 92.30%
+Time: 13.213500 Milliseconds
+
+Threshold: 140
+Retries: 2
+Accuracy: 85.00%
+Time: 9.929300 Milliseconds
+
+Threshold: 140
+Retries: 1
+Accuracy: 89.20%
+Time: 5.748700 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.848000 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.796400 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.827400 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.808100 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.914400 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.853300 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.859700 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.845100 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {150}, starting at {3} retries
+Threshold: 150
+Retries: 3
+Accuracy: 87.00%
+Time: 13.238800 Milliseconds
+
+Threshold: 150
+Retries: 2
+Accuracy: 82.60%
+Time: 9.708000 Milliseconds
+
+Threshold: 150
+Retries: 1
+Accuracy: 89.60%
+Time: 5.525600 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.831200 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.818400 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.829300 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.817700 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.831700 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.819900 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.831100 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.820100 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {160}, starting at {3} retries
+Threshold: 160
+Retries: 3
+Accuracy: 89.20%
+Time: 13.313300 Milliseconds
+
+Threshold: 160
+Retries: 2
+Accuracy: 90.10%
+Time: 9.403600 Milliseconds
+
+Threshold: 160
+Retries: 1
+Accuracy: 83.10%
+Time: 5.737800 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.842200 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.841700 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.926800 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.897200 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.836700 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.836400 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.875500 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 2.078300 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.829600 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.846200 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {170}, starting at {2} retries
+Threshold: 170
+Retries: 2
+Accuracy: 83.40%
+Time: 10.204100 Milliseconds
+
+Threshold: 170
+Retries: 1
+Accuracy: 88.60%
+Time: 5.462500 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.831800 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.851500 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.838800 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.877000 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.850600 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.836700 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.818600 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.843900 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.829800 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {180}, starting at {2} retries
+Threshold: 180
+Retries: 2
+Accuracy: 88.40%
+Time: 9.069800 Milliseconds
+
+Threshold: 180
+Retries: 1
+Accuracy: 88.40%
+Time: 5.547400 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.867500 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.826600 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.804100 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.801300 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.829500 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.836500 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 1.824900 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.835800 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.835000 Milliseconds
+DÊM∑$]†	hñ(
+Lowest Retry at threshold {190}, starting at {2} retries
+Threshold: 190
+Retries: 2
+Accuracy: 89.60%
+Time: 9.355700 Milliseconds
+
+Threshold: 190
+Retries: 1
+Accuracy: 81.20%
+Time: 5.734000 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.847100 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.831500 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.835400 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.821900 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.841500 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.841500 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.812800 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.845900 Milliseconds
+DÊM∑$]†	hñ(
+New Test Suite Run----------------------
+Lowest Retry at threshold {80}, starting at {30} retries
+Threshold: 80
+Retries: 30
+Accuracy: 86.10%
+Time: 123.806200 Milliseconds
+
+Threshold: 80
+Retries: 29
+Accuracy: 93.80%
+Time: 120.160300 Milliseconds
+
+Threshold: 80
+Retries: 28
+Accuracy: 93.70%
+Time: 114.904200 Milliseconds
+
+Threshold: 80
+Retries: 27
+Accuracy: 90.20%
+Time: 111.803700 Milliseconds
+
+Threshold: 80
+Retries: 26
+Accuracy: 84.70%
+Time: 109.838300 Milliseconds
+
+Threshold: 80
+Retries: 25
+Accuracy: 93.60%
+Time: 104.571500 Milliseconds
+
+Threshold: 80
+Retries: 24
+Accuracy: 66.60%
+Time: 97.455000 Milliseconds
+
+Threshold: 80
+Retries: 23
+Accuracy: 86.20%
+Time: 94.175000 Milliseconds
+
+Threshold: 80
+Retries: 22
+Accuracy: 92.20%
+Time: 91.743300 Milliseconds
+
+Threshold: 80
+Retries: 21
+Accuracy: 94.30%
+Time: 88.165800 Milliseconds
+
+Threshold: 80
+Retries: 20
+Accuracy: 90.60%
+Time: 84.610000 Milliseconds
+
+Threshold: 80
+Retries: 19
+Accuracy: 92.10%
+Time: 77.857500 Milliseconds
+
+Threshold: 80
+Retries: 18
+Accuracy: 90.00%
+Time: 75.880400 Milliseconds
+
+Threshold: 80
+Retries: 17
+Accuracy: 89.70%
+Time: 71.913600 Milliseconds
+
+Threshold: 80
+Retries: 16
+Accuracy: 91.30%
+Time: 67.628800 Milliseconds
+
+Threshold: 80
+Retries: 15
+Accuracy: 90.40%
+Time: 62.816400 Milliseconds
+
+Threshold: 80
+Retries: 14
+Accuracy: 87.50%
+Time: 58.469700 Milliseconds
+
+Threshold: 80
+Retries: 13
+Accuracy: 89.00%
+Time: 54.522000 Milliseconds
+
+Threshold: 80
+Retries: 12
+Accuracy: 88.10%
+Time: 49.981300 Milliseconds
+
+Threshold: 80
+Retries: 11
+Accuracy: 62.70%
+Time: 46.347700 Milliseconds
+
+Threshold: 80
+Retries: 10
+Accuracy: 63.40%
+Time: 43.068600 Milliseconds
+
+Threshold: 80
+Retries: 9
+Accuracy: 84.50%
+Time: 38.464500 Milliseconds
+
+Threshold: 80
+Retries: 8
+Accuracy: 88.60%
+Time: 34.146400 Milliseconds
+
+Threshold: 80
+Retries: 7
+Accuracy: 88.40%
+Time: 30.613400 Milliseconds
+
+Threshold: 80
+Retries: 6
+Accuracy: 92.80%
+Time: 26.293400 Milliseconds
+
+Threshold: 80
+Retries: 5
+Accuracy: 85.60%
+Time: 21.985800 Milliseconds
+
+Threshold: 80
+Retries: 4
+Accuracy: 86.80%
+Time: 18.390200 Milliseconds
+
+Threshold: 80
+Retries: 3
+Accuracy: 87.00%
+Time: 13.598500 Milliseconds
+
+Threshold: 80
+Retries: 2
+Accuracy: 78.80%
+Time: 9.960100 Milliseconds
+
+Threshold: 80
+Retries: 1
+Accuracy: 85.50%
+Time: 5.766200 Milliseconds
+
+Threshold: 80
+Retries: 0
+Accuracy: 0.00%
+Time: 1.873400 Milliseconds
+
+Threshold: 80
+Retries: -1
+Accuracy: 0.00%
+Time: 1.837400 Milliseconds
+
+Threshold: 80
+Retries: -2
+Accuracy: 0.00%
+Time: 1.821700 Milliseconds
+
+Threshold: 80
+Retries: -3
+Accuracy: 0.00%
+Time: 1.838200 Milliseconds
+
+Threshold: 80
+Retries: -4
+Accuracy: 0.00%
+Time: 1.824600 Milliseconds
+
+Threshold: 80
+Retries: -5
+Accuracy: 0.00%
+Time: 1.812800 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {90}, starting at {6} retries
+Threshold: 90
+Retries: 6
+Accuracy: 86.30%
+Time: 25.129700 Milliseconds
+
+Threshold: 90
+Retries: 5
+Accuracy: 87.70%
+Time: 22.223600 Milliseconds
+
+Threshold: 90
+Retries: 4
+Accuracy: 88.60%
+Time: 17.821900 Milliseconds
+
+Threshold: 90
+Retries: 3
+Accuracy: 84.60%
+Time: 13.990500 Milliseconds
+
+Threshold: 90
+Retries: 2
+Accuracy: 89.20%
+Time: 10.226300 Milliseconds
+
+Threshold: 90
+Retries: 1
+Accuracy: 87.30%
+Time: 5.443500 Milliseconds
+
+Threshold: 90
+Retries: 0
+Accuracy: 0.00%
+Time: 1.877900 Milliseconds
+
+Threshold: 90
+Retries: -1
+Accuracy: 0.00%
+Time: 1.848200 Milliseconds
+
+Threshold: 90
+Retries: -2
+Accuracy: 0.00%
+Time: 1.864800 Milliseconds
+
+Threshold: 90
+Retries: -3
+Accuracy: 0.00%
+Time: 1.844800 Milliseconds
+
+Threshold: 90
+Retries: -4
+Accuracy: 0.00%
+Time: 1.821800 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {100}, starting at {6} retries
+Threshold: 100
+Retries: 6
+Accuracy: 86.90%
+Time: 25.707600 Milliseconds
+
+Threshold: 100
+Retries: 5
+Accuracy: 89.30%
+Time: 21.889500 Milliseconds
+
+Threshold: 100
+Retries: 4
+Accuracy: 86.30%
+Time: 18.030400 Milliseconds
+
+Threshold: 100
+Retries: 3
+Accuracy: 80.50%
+Time: 13.895500 Milliseconds
+
+Threshold: 100
+Retries: 2
+Accuracy: 86.80%
+Time: 9.680200 Milliseconds
+
+Threshold: 100
+Retries: 1
+Accuracy: 91.00%
+Time: 5.502200 Milliseconds
+
+Threshold: 100
+Retries: 0
+Accuracy: 0.00%
+Time: 1.870800 Milliseconds
+
+Threshold: 100
+Retries: -1
+Accuracy: 0.00%
+Time: 1.805100 Milliseconds
+
+Threshold: 100
+Retries: -2
+Accuracy: 0.00%
+Time: 1.842200 Milliseconds
+
+Threshold: 100
+Retries: -3
+Accuracy: 0.00%
+Time: 1.850100 Milliseconds
+
+Threshold: 100
+Retries: -4
+Accuracy: 0.00%
+Time: 1.852400 Milliseconds
+
+Threshold: 100
+Retries: -5
+Accuracy: 0.00%
+Time: 1.980200 Milliseconds
+
+Threshold: 100
+Retries: -6
+Accuracy: 0.00%
+Time: 1.845600 Milliseconds
+
+Threshold: 100
+Retries: -7
+Accuracy: 0.00%
+Time: 1.866200 Milliseconds
+
+Threshold: 100
+Retries: -8
+Accuracy: 0.00%
+Time: 1.815200 Milliseconds
+
+Threshold: 100
+Retries: -9
+Accuracy: 0.00%
+Time: 1.980300 Milliseconds
+
+Threshold: 100
+Retries: -10
+Accuracy: 0.00%
+Time: 1.850900 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {110}, starting at {1} retries
+Threshold: 110
+Retries: 1
+Accuracy: 88.80%
+Time: 5.443600 Milliseconds
+
+Threshold: 110
+Retries: 0
+Accuracy: 0.00%
+Time: 1.841900 Milliseconds
+
+Threshold: 110
+Retries: -1
+Accuracy: 0.00%
+Time: 1.852200 Milliseconds
+
+Threshold: 110
+Retries: -2
+Accuracy: 0.00%
+Time: 1.875000 Milliseconds
+
+Threshold: 110
+Retries: -3
+Accuracy: 0.00%
+Time: 1.879200 Milliseconds
+
+Threshold: 110
+Retries: -4
+Accuracy: 0.00%
+Time: 1.910300 Milliseconds
+
+Threshold: 110
+Retries: -5
+Accuracy: 0.00%
+Time: 1.825100 Milliseconds
+
+Threshold: 110
+Retries: -6
+Accuracy: 0.00%
+Time: 1.884800 Milliseconds
+
+Threshold: 110
+Retries: -7
+Accuracy: 0.00%
+Time: 1.857400 Milliseconds
+
+Threshold: 110
+Retries: -8
+Accuracy: 0.00%
+Time: 1.826000 Milliseconds
+
+Threshold: 110
+Retries: -9
+Accuracy: 0.00%
+Time: 1.840000 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {120}, starting at {1} retries
+Threshold: 120
+Retries: 1
+Accuracy: 87.40%
+Time: 5.499600 Milliseconds
+
+Threshold: 120
+Retries: 0
+Accuracy: 0.00%
+Time: 1.920000 Milliseconds
+
+Threshold: 120
+Retries: -1
+Accuracy: 0.00%
+Time: 1.847200 Milliseconds
+
+Threshold: 120
+Retries: -2
+Accuracy: 0.00%
+Time: 1.821700 Milliseconds
+
+Threshold: 120
+Retries: -3
+Accuracy: 0.00%
+Time: 1.848000 Milliseconds
+
+Threshold: 120
+Retries: -4
+Accuracy: 0.00%
+Time: 1.825900 Milliseconds
+
+Threshold: 120
+Retries: -5
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 120
+Retries: -6
+Accuracy: 0.00%
+Time: 1.819700 Milliseconds
+
+Threshold: 120
+Retries: -7
+Accuracy: 0.00%
+Time: 1.888700 Milliseconds
+
+Threshold: 120
+Retries: -8
+Accuracy: 0.00%
+Time: 1.833100 Milliseconds
+
+Threshold: 120
+Retries: -9
+Accuracy: 0.00%
+Time: 1.822700 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {130}, starting at {1} retries
+Threshold: 130
+Retries: 1
+Accuracy: 88.00%
+Time: 5.424000 Milliseconds
+
+Threshold: 130
+Retries: 0
+Accuracy: 0.00%
+Time: 1.872400 Milliseconds
+
+Threshold: 130
+Retries: -1
+Accuracy: 0.00%
+Time: 1.880200 Milliseconds
+
+Threshold: 130
+Retries: -2
+Accuracy: 0.00%
+Time: 1.922900 Milliseconds
+
+Threshold: 130
+Retries: -3
+Accuracy: 0.00%
+Time: 1.878600 Milliseconds
+
+Threshold: 130
+Retries: -4
+Accuracy: 0.00%
+Time: 1.874100 Milliseconds
+
+Threshold: 130
+Retries: -5
+Accuracy: 0.00%
+Time: 1.920300 Milliseconds
+
+Threshold: 130
+Retries: -6
+Accuracy: 0.00%
+Time: 2.010000 Milliseconds
+
+Threshold: 130
+Retries: -7
+Accuracy: 0.00%
+Time: 1.887900 Milliseconds
+
+Threshold: 130
+Retries: -8
+Accuracy: 0.00%
+Time: 2.586100 Milliseconds
+
+Threshold: 130
+Retries: -9
+Accuracy: 0.00%
+Time: 1.948000 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {140}, starting at {1} retries
+Threshold: 140
+Retries: 1
+Accuracy: 87.20%
+Time: 5.511900 Milliseconds
+
+Threshold: 140
+Retries: 0
+Accuracy: 0.00%
+Time: 1.876600 Milliseconds
+
+Threshold: 140
+Retries: -1
+Accuracy: 0.00%
+Time: 1.827300 Milliseconds
+
+Threshold: 140
+Retries: -2
+Accuracy: 0.00%
+Time: 1.933400 Milliseconds
+
+Threshold: 140
+Retries: -3
+Accuracy: 0.00%
+Time: 1.816300 Milliseconds
+
+Threshold: 140
+Retries: -4
+Accuracy: 0.00%
+Time: 1.902500 Milliseconds
+
+Threshold: 140
+Retries: -5
+Accuracy: 0.00%
+Time: 1.843900 Milliseconds
+
+Threshold: 140
+Retries: -6
+Accuracy: 0.00%
+Time: 1.843700 Milliseconds
+
+Threshold: 140
+Retries: -7
+Accuracy: 0.00%
+Time: 1.878200 Milliseconds
+
+Threshold: 140
+Retries: -8
+Accuracy: 0.00%
+Time: 1.895800 Milliseconds
+
+Threshold: 140
+Retries: -9
+Accuracy: 0.00%
+Time: 1.842200 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {150}, starting at {1} retries
+Threshold: 150
+Retries: 1
+Accuracy: 83.40%
+Time: 5.525600 Milliseconds
+
+Threshold: 150
+Retries: 0
+Accuracy: 0.00%
+Time: 1.871700 Milliseconds
+
+Threshold: 150
+Retries: -1
+Accuracy: 0.00%
+Time: 1.845800 Milliseconds
+
+Threshold: 150
+Retries: -2
+Accuracy: 0.00%
+Time: 1.854900 Milliseconds
+
+Threshold: 150
+Retries: -3
+Accuracy: 0.00%
+Time: 1.868700 Milliseconds
+
+Threshold: 150
+Retries: -4
+Accuracy: 0.00%
+Time: 1.859500 Milliseconds
+
+Threshold: 150
+Retries: -5
+Accuracy: 0.00%
+Time: 1.835600 Milliseconds
+
+Threshold: 150
+Retries: -6
+Accuracy: 0.00%
+Time: 1.878100 Milliseconds
+
+Threshold: 150
+Retries: -7
+Accuracy: 0.00%
+Time: 1.834600 Milliseconds
+
+Threshold: 150
+Retries: -8
+Accuracy: 0.00%
+Time: 1.842100 Milliseconds
+
+Threshold: 150
+Retries: -9
+Accuracy: 0.00%
+Time: 1.838000 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {160}, starting at {1} retries
+Threshold: 160
+Retries: 1
+Accuracy: 89.40%
+Time: 5.598100 Milliseconds
+
+Threshold: 160
+Retries: 0
+Accuracy: 0.00%
+Time: 1.873700 Milliseconds
+
+Threshold: 160
+Retries: -1
+Accuracy: 0.00%
+Time: 1.863900 Milliseconds
+
+Threshold: 160
+Retries: -2
+Accuracy: 0.00%
+Time: 1.932100 Milliseconds
+
+Threshold: 160
+Retries: -3
+Accuracy: 0.00%
+Time: 1.894000 Milliseconds
+
+Threshold: 160
+Retries: -4
+Accuracy: 0.00%
+Time: 1.856800 Milliseconds
+
+Threshold: 160
+Retries: -5
+Accuracy: 0.00%
+Time: 1.842500 Milliseconds
+
+Threshold: 160
+Retries: -6
+Accuracy: 0.00%
+Time: 1.851500 Milliseconds
+
+Threshold: 160
+Retries: -7
+Accuracy: 0.00%
+Time: 1.827700 Milliseconds
+
+Threshold: 160
+Retries: -8
+Accuracy: 0.00%
+Time: 1.834500 Milliseconds
+
+Threshold: 160
+Retries: -9
+Accuracy: 0.00%
+Time: 1.848800 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {170}, starting at {1} retries
+Threshold: 170
+Retries: 1
+Accuracy: 90.10%
+Time: 5.433500 Milliseconds
+
+Threshold: 170
+Retries: 0
+Accuracy: 0.00%
+Time: 1.917700 Milliseconds
+
+Threshold: 170
+Retries: -1
+Accuracy: 0.00%
+Time: 1.899700 Milliseconds
+
+Threshold: 170
+Retries: -2
+Accuracy: 0.00%
+Time: 1.956400 Milliseconds
+
+Threshold: 170
+Retries: -3
+Accuracy: 0.00%
+Time: 1.835900 Milliseconds
+
+Threshold: 170
+Retries: -4
+Accuracy: 0.00%
+Time: 1.829900 Milliseconds
+
+Threshold: 170
+Retries: -5
+Accuracy: 0.00%
+Time: 1.877600 Milliseconds
+
+Threshold: 170
+Retries: -6
+Accuracy: 0.00%
+Time: 1.829300 Milliseconds
+
+Threshold: 170
+Retries: -7
+Accuracy: 0.00%
+Time: 1.883700 Milliseconds
+
+Threshold: 170
+Retries: -8
+Accuracy: 0.00%
+Time: 1.817300 Milliseconds
+
+Threshold: 170
+Retries: -9
+Accuracy: 0.00%
+Time: 1.841000 Milliseconds
+
+Threshold: 170
+Retries: -10
+Accuracy: 0.00%
+Time: 1.870100 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {180}, starting at {1} retries
+Threshold: 180
+Retries: 1
+Accuracy: 89.40%
+Time: 5.481900 Milliseconds
+
+Threshold: 180
+Retries: 0
+Accuracy: 0.00%
+Time: 1.863200 Milliseconds
+
+Threshold: 180
+Retries: -1
+Accuracy: 0.00%
+Time: 1.846700 Milliseconds
+
+Threshold: 180
+Retries: -2
+Accuracy: 0.00%
+Time: 1.965000 Milliseconds
+
+Threshold: 180
+Retries: -3
+Accuracy: 0.00%
+Time: 1.877400 Milliseconds
+
+Threshold: 180
+Retries: -4
+Accuracy: 0.00%
+Time: 1.840000 Milliseconds
+
+Threshold: 180
+Retries: -5
+Accuracy: 0.00%
+Time: 1.824800 Milliseconds
+
+Threshold: 180
+Retries: -6
+Accuracy: 0.00%
+Time: 2.349000 Milliseconds
+
+Threshold: 180
+Retries: -7
+Accuracy: 0.00%
+Time: 1.868700 Milliseconds
+
+Threshold: 180
+Retries: -8
+Accuracy: 0.00%
+Time: 1.834700 Milliseconds
+
+Threshold: 180
+Retries: -9
+Accuracy: 0.00%
+Time: 1.844500 Milliseconds
+DÊM∑J_†	hñ(
+Lowest Retry at threshold {190}, starting at {1} retries
+Threshold: 190
+Retries: 1
+Accuracy: 89.00%
+Time: 5.497200 Milliseconds
+
+Threshold: 190
+Retries: 0
+Accuracy: 0.00%
+Time: 1.845100 Milliseconds
+
+Threshold: 190
+Retries: -1
+Accuracy: 0.00%
+Time: 1.883900 Milliseconds
+
+Threshold: 190
+Retries: -2
+Accuracy: 0.00%
+Time: 1.893000 Milliseconds
+
+Threshold: 190
+Retries: -3
+Accuracy: 0.00%
+Time: 1.873000 Milliseconds
+
+Threshold: 190
+Retries: -4
+Accuracy: 0.00%
+Time: 1.856300 Milliseconds
+
+Threshold: 190
+Retries: -5
+Accuracy: 0.00%
+Time: 1.840300 Milliseconds
+
+Threshold: 190
+Retries: -6
+Accuracy: 0.00%
+Time: 1.855000 Milliseconds
+
+Threshold: 190
+Retries: -7
+Accuracy: 0.00%
+Time: 1.810100 Milliseconds
+
+Threshold: 190
+Retries: -8
+Accuracy: 0.00%
+Time: 1.839500 Milliseconds
+
+Threshold: 190
+Retries: -9
+Accuracy: 0.00%
+Time: 1.847800 Milliseconds
+DÊM∑J_†	hñ(
